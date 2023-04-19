@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.2.1",
+    "nodemon": "^2.0.22",
+    "save": "^2.9.0",
+    "sequelize": "^6.31.0"
+  },
+  "name": "session_7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
